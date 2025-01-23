@@ -5,7 +5,7 @@
   "version": "0.1",
   "content_scripts": [
     {
-      "matches": ["*://kdata1.com/2020/10/House_of_Hazards/*"],
+      "matches": ["*://poki.com/*"],
       "js": ["content.js"]
     }
   ],
